@@ -7,12 +7,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
-import matplotlib.animation as ani
-
-from matplotlib import cm
-from matplotlib.animation import FuncAnimation
-from IPython.display import HTML
 
 import warnings
 warnings.filterwarnings('ignore')
